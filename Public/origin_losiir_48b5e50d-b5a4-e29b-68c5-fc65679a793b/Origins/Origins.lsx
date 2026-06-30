@@ -12,7 +12,7 @@
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Losiir"/>
                     <attribute id="ClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
-                    <attribute id="Description" type="TranslatedString" handle="hba9f565ag9ef7g2435g2614g04ca80bac29d" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hba9f565ag9ef7g2435g2614g04ca80bac29d" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h949dac6dgc3a6gef1cg7728g3fe59b1ca902" version="1"/>
                     <attribute id="GlobalTemplate" type="guid" value="aeaab711-9c67-4d73-ab50-c3f7f48d8933"/>
                     <attribute id="Identity" type="uint8" value="0"/>

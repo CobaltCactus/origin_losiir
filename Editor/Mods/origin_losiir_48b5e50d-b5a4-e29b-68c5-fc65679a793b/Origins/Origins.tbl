@@ -18,7 +18,7 @@
         <field name="Passives" type="StringTableFieldDefinition" value="DeathSavingThrows" />
         <field name="ClassEquipmentOverride" type="FixedStringTableFieldDefinition" value="EQ_Losiir" />
         <field name="IsHenchman" type="BoolTableFieldDefinition" value="False" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hba9f565ag9ef7g2435g2614g04ca80bac29d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hba9f565ag9ef7g2435g2614g04ca80bac29d" version="2" />
         <field name="Identity" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="Identity" version="1" />
         <field name="LockBody" type="BoolTableFieldDefinition" value="True" />
         <field name="LockRace" type="BoolTableFieldDefinition" value="True" />
