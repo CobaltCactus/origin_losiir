@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="b923d561-af5a-47d5-b34a-f4c4fb8c4dcc">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b1ce7d95-4999-42dc-8c99-41b2681751c9" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Losiir" />
+        <field name="Unique" type="BoolTableFieldDefinition" value="True" />
+        <field name="AvailableInCharacterCreation" type="EnumerationTableFieldDefinition" value="Available" enumeration_type_name="CharacterCreatorAvailabilityType" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h949dac6dgc3a6gef1cg7728g3fe59b1ca902" version="1" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="bdf9b779-002c-4077-b377-8ea7c1faa795" />
+        <field name="BackgroundUUID" type="GuidTableFieldDefinition" value="1252a86e-9baa-4ccb-b8ce-2378ae006f0b" />
+        <field name="ClassUUID" type="GuidTableFieldDefinition" value="721dfac3-92d4-41f5-b773-b7072a86232f" />
+        <field name="GlobalTemplate" type="GuidTableFieldDefinition" value="aeaab711-9c67-4d73-ab50-c3f7f48d8933" />
+        <field name="Passives" type="StringTableFieldDefinition" value="DeathSavingThrows" />
+        <field name="ClassEquipmentOverride" type="FixedStringTableFieldDefinition" value="EQ_Losiir" />
+        <field name="IsHenchman" type="BoolTableFieldDefinition" value="False" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hba9f565ag9ef7g2435g2614g04ca80bac29d" version="1" />
+        <field name="Identity" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="Identity" version="1" />
+        <field name="LockBody" type="BoolTableFieldDefinition" value="True" />
+        <field name="LockRace" type="BoolTableFieldDefinition" value="True" />
+        <field name="VoiceTableUUID" type="GuidTableFieldDefinition" value="5ee56242-d07c-482e-9260-24529d1473a3" />
+        <field name="ReallyTags" type="GuidObjectListTableFieldDefinition" value="e49c027c-6ec6-4158-9afb-8b59236d10fd" />
+        <field name="AppearanceLocked" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

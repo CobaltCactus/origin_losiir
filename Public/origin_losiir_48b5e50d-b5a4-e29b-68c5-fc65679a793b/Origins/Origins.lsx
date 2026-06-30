@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="1"/>
+                    <attribute id="BackgroundUUID" type="guid" value="1252a86e-9baa-4ccb-b8ce-2378ae006f0b"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Losiir"/>
+                    <attribute id="ClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hba9f565ag9ef7g2435g2614g04ca80bac29d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h949dac6dgc3a6gef1cg7728g3fe59b1ca902" version="1"/>
+                    <attribute id="GlobalTemplate" type="guid" value="aeaab711-9c67-4d73-ab50-c3f7f48d8933"/>
+                    <attribute id="Identity" type="uint8" value="0"/>
+                    <attribute id="IsHenchman" type="bool" value="false"/>
+                    <attribute id="LockBody" type="bool" value="true"/>
+                    <attribute id="LockRace" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Losiir"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="bdf9b779-002c-4077-b377-8ea7c1faa795"/>
+                    <attribute id="UUID" type="guid" value="b1ce7d95-4999-42dc-8c99-41b2681751c9"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="5ee56242-d07c-482e-9260-24529d1473a3"/>
+                    <children>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="e49c027c-6ec6-4158-9afb-8b59236d10fd"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
