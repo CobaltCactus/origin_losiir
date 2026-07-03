@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="Voices">
+        <node id="root">
+            <children>
+                <node id="Voice">
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8b32418ag44bag635agfc76g033d50453e13" version="2"/>
+                    <attribute id="SpeakerUUID" type="guid" value="2d206fda-0d4f-457f-b4ea-0fc18866f5dd"/>
+                    <attribute id="TableUUID" type="guid" value="cf444b50-4334-48e4-b11e-dbfd54166a9e"/>
+                    <attribute id="UUID" type="guid" value="2823c396-d51b-4511-830b-536852eb6f1d"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6052ef1f-bc50-4dff-968b-8d3a79fddeb7"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

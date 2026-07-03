@@ -22,7 +22,7 @@
         <field name="Identity" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="Identity" version="1" />
         <field name="LockBody" type="BoolTableFieldDefinition" value="True" />
         <field name="LockRace" type="BoolTableFieldDefinition" value="True" />
-        <field name="VoiceTableUUID" type="GuidTableFieldDefinition" value="5ee56242-d07c-482e-9260-24529d1473a3" />
+        <field name="VoiceTableUUID" type="GuidTableFieldDefinition" value="cf444b50-4334-48e4-b11e-dbfd54166a9e" />
         <field name="ReallyTags" type="GuidObjectListTableFieldDefinition" value="e49c027c-6ec6-4158-9afb-8b59236d10fd" />
         <field name="AppearanceLocked" type="BoolTableFieldDefinition" value="True" />
       </fields>

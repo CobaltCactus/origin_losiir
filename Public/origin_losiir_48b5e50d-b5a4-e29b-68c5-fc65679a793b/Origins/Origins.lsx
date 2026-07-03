@@ -24,7 +24,7 @@
                     <attribute id="RaceUUID" type="guid" value="bdf9b779-002c-4077-b377-8ea7c1faa795"/>
                     <attribute id="UUID" type="guid" value="b1ce7d95-4999-42dc-8c99-41b2681751c9"/>
                     <attribute id="Unique" type="bool" value="true"/>
-                    <attribute id="VoiceTableUUID" type="guid" value="5ee56242-d07c-482e-9260-24529d1473a3"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="cf444b50-4334-48e4-b11e-dbfd54166a9e"/>
                     <children>
                         <node id="ReallyTags">
                             <attribute id="Object" type="guid" value="e49c027c-6ec6-4158-9afb-8b59236d10fd"/>
