@@ -1,0 +1,29 @@
+new equipment "EQ_Losiir"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "WPN_Scimitar"
+add equipmentgroup
+add equipment entry "WPN_Longbow"
+add equipmentgroup
+add equipment entry "ARM_Boots_Metal_Githyanki"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_HalfPlate_Body_Githyanki"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Githyanki"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "UNI_Losiir_Camp_Body"
+add equipmentgroup
+add equipment entry "UNI_Losiir_Camp_Shoes"
+

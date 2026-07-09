@@ -1,0 +1,10 @@
+new entry "UNI_Losiir_Camp_Shoes"
+type "Armor"
+using "ARM_Camp_Shoes"
+data "RootTemplate" "ff4d3b9c-e09c-4aa5-ae3a-b2d8b7ed2601"
+
+new entry "UNI_Losiir_Camp_Body"
+type "Armor"
+using "ARM_Camp_Body"
+data "RootTemplate" "bf6e1bea-c5d3-413f-82c9-8221f23bb187"
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="65076fd4-4f37-47e3-b801-b73b0d59bb89" />
+        <field name="Name" type="NameTableFieldDefinition" value="UNI_Losiir_Camp_Shoes" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c81865e-6b61-4f25-b5c2-312ee3611037" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ff4d3b9c-e09c-4aa5-ae3a-b2d8b7ed2601" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="db370499-db56-4c03-9193-8391f0d01bab" />
+        <field name="Name" type="NameTableFieldDefinition" value="UNI_Losiir_Camp_Body" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="03abca91-c190-4cd6-b8de-d1263a24f13a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bf6e1bea-c5d3-413f-82c9-8221f23bb187" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
